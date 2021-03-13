@@ -1,0 +1,39 @@
+{
+  "productos": [
+    {
+      "nombre": "Jugo de Piña",
+      "precio": "400",
+      "id": 5
+    },
+    {
+      "nombre": "rin eye",
+      "precio": 800,
+      "id": 6
+    },
+    {
+      "nombre": "Luna",
+      "precio": 4,
+      "id": 7
+    },
+    {
+      "nombre": "Chelo",
+      "precio": "500",
+      "id": 8
+    },
+    {
+      "nombre": "Luna",
+      "precio": 1,
+      "id": 9
+    },
+    {
+      "nombre": "Mezcal",
+      "precio": "1000",
+      "id": 10
+    },
+    {
+      "nombre": "Onur",
+      "precio": 400,
+      "id": 11
+    }
+  ]
+}
